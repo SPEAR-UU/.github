@@ -1,12 +1,2 @@
-## Hi there 👋
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+# Semiconductor Photonics Education and Research Centre (SPEAR)
+The SPEAR Centre is a PEACEPLUS-funded consortium delivering applied research, postgraduate training, and shared compute infrastructure for the semiconductor and photonics sector. The programme combines a four-year structured PhD pathway with the development of an open, HPC-backed photonics simulation and digital twin platform — bridging academic research and industrial manufacturing across the Irish border region. Our goal is to build durable regional capability in photonic device design, simulation, and manufacturing analytics, while training the next generation of research engineers to work fluently across the software, hardware, and physics layers of the modern photonics stack.
